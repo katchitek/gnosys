@@ -11,3 +11,4 @@ GNOSYS (Generalized Native Object System) is a set of shim libraries that implem
 * access to platform specific APIs
 * usable with higher level languages
 * open source
+<!-- * commercial license suitable for publishing "store" apps -->
